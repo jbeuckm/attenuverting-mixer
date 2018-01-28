@@ -145,8 +145,8 @@
 <wire x1="96" y1="0" x2="96" y2="50" width="0" layer="20"/>
 <wire x1="96" y1="50" x2="1" y2="50" width="0" layer="20"/>
 <wire x1="1" y1="50" x2="1" y2="0" width="0" layer="20"/>
-<text x="65.02" y="4.095" size="1.6764" layer="26" rot="MR0">https://github.com/jbeuckm/attenuverting-mixer</text>
-<text x="56.11" y="1.235" size="1.778" layer="26" rot="MR0">Release v0.1</text>
+<text x="73.02" y="12.095" size="1.6764" layer="26" rot="MR0">https://github.com/jbeuckm/attenuverting-mixer</text>
+<text x="55.11" y="9.235" size="1.778" layer="26" rot="MR0">Release v0.1</text>
 </plain>
 <libraries>
 <library name="rcl">
@@ -1718,7 +1718,7 @@ design rules under a new name.</description>
 </element>
 <element name="U$2" library="adafruit" package="FB" value="FB" x="33.25" y="43.53" smashed="yes" rot="R270"/>
 <element name="C5" library="rcl" package="B45181A" value="10u" x="42.03" y="38.95" smashed="yes" rot="R90">
-<attribute name="VALUE" x="44.002" y="36.181" size="1.27" layer="27" ratio="10" rot="R180"/>
+<attribute name="VALUE" x="44.819" y="40.002" size="1.27" layer="27" ratio="10" rot="R270"/>
 </element>
 <element name="U$3" library="adafruit" package="FB" value="FB" x="37.45" y="41.3" smashed="yes" rot="R90"/>
 <element name="C10" library="rcl" package="B45181A" value="10u" x="42.8" y="45.1" smashed="yes" rot="R90">
